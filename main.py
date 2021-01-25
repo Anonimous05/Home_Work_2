@@ -19,3 +19,4 @@ elif operation == "**":
     print("Вы выбрали возведение в степень: " + str(num1) + " ** " + str(num2) + " = " + str(num1 ** num2))
 else:
     print("Выберите оперцию из выше перечисленных!")
+    # jzkfd
